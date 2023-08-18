@@ -1,0 +1,14 @@
+.thatt{
+    font-family: 'Solway', serif;
+    color: rgb(0, 255, 55);
+    font-weight: 800;
+    margin-top: 10px;
+  }
+
+  .cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+
+  }
